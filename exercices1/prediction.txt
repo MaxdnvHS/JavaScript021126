@@ -1,0 +1,5 @@
+console.log(10+5);          -> 15
+console.log("10"+5);        -> 105 (concaténation, string)
+console.log(10/4);          -> 2.5
+console.log(10%4);          -> 2 (reste de la division)
+console.log(typeof "true"); -> string
